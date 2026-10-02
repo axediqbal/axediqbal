@@ -16,12 +16,12 @@
 
 ### About
 
-Final-year Software Engineering student who ships. I build full-stack products end-to-end — from system design to deployment — and I test them like a QA engineer, because I am one too. Currently interning as a **Full Stack Intern @ SafeX Solutions** and a **Software Quality Engineering Intern @ Big Brains Learning**.
+Final-year Software Engineering student at SSUET, Karachi. I build full-stack products end-to-end — from system design to deployment — backed by QA automation discipline (Selenium, Page Object Model, Jira). Currently interning as a **Full Stack Intern** at SafeX Solutions and a **Software Quality Engineering Intern** at Big Brains Learning.
 
-- 🔭 Building production-style projects weekly: e-commerce platforms, restaurant systems, trading simulators
-- 🧪 QA automation with Selenium (Python), Page Object Model, Jira workflows
-- 🤖 AI/Computer Vision: X-ray fracture detection, sketch-to-website generation
-- 📍 Karachi, Pakistan · 🎓 SSUET '27
+- Building production-style projects: e-commerce platforms, restaurant systems, trading simulators
+- QA automation with Selenium (Python), Page Object Model, and Jira workflows
+- AI / Computer Vision: X-ray fracture detection, sketch-to-website generation
+- Karachi, Pakistan · SSUET '27
 
 ---
 
@@ -54,7 +54,7 @@ Final-year Software Engineering student who ships. I build full-stack products e
 | Project | What it is | Links |
 |---|---|---|
 | **ApexMediaCo** | Complete e-commerce storefront for a national marketing agency — cart & checkout flow, server-side validation, 14/14 API tests passing | [Live](https://apexmediaco.vercel.app/) · [Code](https://github.com/axediqbal/apexmediaco) |
-| **Lumière** | Premium fine-dining restaurant website — GSAP scroll animations, MongoDB-backed reservation system, Lighthouse-audited | [Live](https://lamier.vercel.app/) .[code](https://github.com/axediqbal/LAMIER-RESTUARANT.git) |
+| **Lumière** | Premium fine-dining restaurant website — GSAP scroll animations, MongoDB-backed reservation system, Lighthouse-audited | [Live](https://lamier.vercel.app/) |
 | **Nexus Forex Exchange** | Full-stack forex/crypto trading simulator (NEXUS PRO V3) — React front end, Spring Boot back end, concurrency handling | — |
 | **Bone Fracture Detection AI** | Computer vision pipeline classifying X-ray images as fractured / non-fractured — Python, OpenCV, TensorFlow | — |
 | **Blueprint AI** | AI-assisted tool turning rough hand-drawn sketches into structured, responsive website layouts | [Live](https://blueprintai-delta.vercel.app/) |
