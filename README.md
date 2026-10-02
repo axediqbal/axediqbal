@@ -55,6 +55,9 @@ Final-year Software Engineering student at SSUET, Karachi. I build full-stack pr
 |---|---|---|
 | **ApexMediaCo** | Complete e-commerce storefront for a national marketing agency — cart & checkout flow, server-side validation, 14/14 API tests passing | [Live](https://apexmediaco.vercel.app/) · [Code](https://github.com/axediqbal/apexmediaco) |
 | **Lumière** | Premium fine-dining restaurant website — GSAP scroll animations, MongoDB-backed reservation system, Lighthouse-audited | [Live](https://lamier.vercel.app/) |
+| **InternDesk** | Full-stack intern directory console — Express + SQLite, dark "Midnight Console" UI (DecodeLabs Week 4) | [Live](https://interndesk.vercel.app/) · [Code](https://github.com/axediqbal/interndeskdecodelabs) |
+| **ImageGo** | AI image-generation studio (DecodeLabs Week 3) | [Code](https://github.com/axediqbal/imagego) |
+| **ResponsiveFrontEndInterface** | Responsive frontend architecture wired into a resilient Node.js/PostgreSQL backend (DecodeLabs Weeks 1–2) | [Code](https://github.com/axediqbal/ResponsiveFrontEndInterface) |
 | **Nexus Forex Exchange** | Full-stack forex/crypto trading simulator (NEXUS PRO V3) — React front end, Spring Boot back end, concurrency handling | — |
 | **Bone Fracture Detection AI** | Computer vision pipeline classifying X-ray images as fractured / non-fractured — Python, OpenCV, TensorFlow | — |
 | **Blueprint AI** | AI-assisted tool turning rough hand-drawn sketches into structured, responsive website layouts | [Live](https://blueprintai-delta.vercel.app/) |
