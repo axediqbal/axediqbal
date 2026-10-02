@@ -54,7 +54,7 @@ Final-year Software Engineering student who ships. I build full-stack products e
 | Project | What it is | Links |
 |---|---|---|
 | **ApexMediaCo** | Complete e-commerce storefront for a national marketing agency — cart & checkout flow, server-side validation, 14/14 API tests passing | [Live](https://apexmediaco.vercel.app/) · [Code](https://github.com/axediqbal/apexmediaco) |
-| **Lumière** | Premium fine-dining restaurant website — GSAP scroll animations, MongoDB-backed reservation system, Lighthouse-audited | [Live](https://lamier.vercel.app/) |
+| **Lumière** | Premium fine-dining restaurant website — GSAP scroll animations, MongoDB-backed reservation system, Lighthouse-audited | [Live](https://lamier.vercel.app/) .[code](https://github.com/axediqbal/LAMIER-RESTUARANT.git) |
 | **Nexus Forex Exchange** | Full-stack forex/crypto trading simulator (NEXUS PRO V3) — React front end, Spring Boot back end, concurrency handling | — |
 | **Bone Fracture Detection AI** | Computer vision pipeline classifying X-ray images as fractured / non-fractured — Python, OpenCV, TensorFlow | — |
 | **Blueprint AI** | AI-assisted tool turning rough hand-drawn sketches into structured, responsive website layouts | [Live](https://blueprintai-delta.vercel.app/) |
